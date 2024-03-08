@@ -9,4 +9,5 @@ This was to showcase the points of access to the island.
 Additionally, I made sure to highlight the public mode of transportation that you can take through my route, being the public bus system on the island. This bus system has routes that will take you to all of my favorite public beaches. 
 Included in the map is pictures to show what lies at these beaches as well as address descriptions if you were to use your own method of transportation. 
 
-## I hope this map brings some useful infomation and furthermore I hope you enjoy my creation!
+## Map Authored by me, Liam Holtham 
+I hope this map brings some useful infomation and furthermore I hope you enjoy my creation!
